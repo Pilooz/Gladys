@@ -80,6 +80,7 @@ CREATE DATABASE gladys; -- or whatever name you've set in your .env file.`
 If you want to recompile assets and run all tasks, you can run :
 
 ```
+npm install -g grunt
 grunt buildProd
 ```
 
